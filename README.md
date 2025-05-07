@@ -62,5 +62,5 @@ This beginner-friendly quant research project aims to predict the closing stock 
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Ermithe Tilusca  
 **Last Updated**: August 2025
