@@ -31,7 +31,7 @@ This beginner-friendly quant research project aims to predict the closing stock 
 ## 🧪 How to Run
 1. Clone this repo  
    ```
-   git clone https://github.com/yourusername/stock-price-prediction-project.git
+   git clone https://github.com/Ermithe06/stock-price-prediction-project.git
    cd stock-price-prediction-project
    ```
 
